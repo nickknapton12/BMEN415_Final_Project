@@ -1,3 +1,10 @@
+# Brain tumor image sets
+*.png
+*.jpg
+*.jpeg
+*.tif
+*.JPG
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
